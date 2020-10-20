@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370334609448",
+    "firebase_url": "https://gentle-avatar-261719.firebaseio.com",
+    "project_id": "gentle-avatar-261719",
+    "storage_bucket": "gentle-avatar-261719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370334609448:android:e95bf8aeb988c09353051d",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370334609448-j5dlvhjima18p2q7ldhngb0emqcpoqgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOgEgQfzQpAnWAcvnTxzHeQ7HtNdWi_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370334609448-j5dlvhjima18p2q7ldhngb0emqcpoqgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
